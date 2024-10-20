@@ -65,6 +65,7 @@ ________________________________________
 ![Distribution Strategy](https://github.com/LakshmiPriyaDiwakar2706/Survey-Analysis/blob/main/image%20(4).png)
 
 •	Increased Availability in Delhi: The low number of respondents from Delhi suggests a gap in brand awareness. Focused campaigns or sampling strategies in Delhi should be implemented to improve reach.
+
 3. Marketing Strategy:
 
 •	Targeted Surveys in Key Cities: Conduct follow-up surveys in cities like Delhi, Jaipur, and Kolkata to understand deeper market insights and address regional preferences.
