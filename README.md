@@ -23,8 +23,9 @@ Key Steps in the Data Cleaning Process:
 •	The goal was to remove responses that could introduce bias or skew results. The cleaned data now reflects more reliable insights about consumer behavior, perceptions, and purchasing decisions.
 
 Data Modeling:
-[Data Model In Tableau](https://github.com/LakshmiPriyaDiwakar2706/Survey-Analysis/blob/main/image.png)
-[Data Model In Tableau](https://github.com/LakshmiPriyaDiwakar2706/Survey-Analysis/blob/main/image(1).png)
+[Data Model In Tableau - 1](https://github.com/LakshmiPriyaDiwakar2706/Survey-Analysis/blob/main/image.png)
+
+[Data Model In Tableau - 2](https://github.com/LakshmiPriyaDiwakar2706/Survey-Analysis/blob/main/image(1).png)
 
 ________________________________________
 ## 4. Insights Deep Dive
