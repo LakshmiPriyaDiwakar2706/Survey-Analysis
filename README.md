@@ -7,9 +7,11 @@ The analysis focuses on three main areas:
 3.	Brand Analysis
 ________________________________________
 ## 2.	Project Files and Resources
-1.	Cleaned Survey Data: The cleaned and pre-processed data can be accessed here.
-2.	Interactive Tableau Dashboard: The interactive dashboard visualizing key findings is available here.
-3.	Metadata Documentation: Detailed metadata about the survey and dataset can be found here.
+1.	Cleaned Survey Data: The cleaned and pre-processed data [here](https://github.com/LakshmiPriyaDiwakar2706/Survey-Analysis/blob/main/fact_survey_responses_%20cleaned_data.csv)
+2.	City Data: The city respondents belong to data can be found [here](https://github.com/LakshmiPriyaDiwakar2706/Survey-Analysis/blob/main/dim_cities.csv)
+3.	Respondents Data : The data regarding to respondents like (age, gender etc) can be found [here](https://github.com/LakshmiPriyaDiwakar2706/Survey-Analysis/blob/main/dim_repondents.csv)
+4.	Interactive Tableau Dashboard: The interactive dashboard visualizing key findings is available [here](https://public.tableau.com/app/profile/lakshmi.priya.diwakar7591/viz/ConsumerAnalysisDashboard_17293052726020/Story2)
+5.	Metadata Documentation: Detailed metadata about the survey and dataset can be found [here](https://github.com/LakshmiPriyaDiwakar2706/Survey-Analysis/blob/main/Metadata.txt)
 ________________________________________
 ### 3.	Data Structure and Initial Checks
 Dat Structure: Being survey data, all the data were qualitative with categorical values in it.
