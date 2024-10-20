@@ -26,7 +26,7 @@ Data Modeling:
 
 ![Data Model In Tableau - 1](https://github.com/LakshmiPriyaDiwakar2706/Survey-Analysis/blob/main/image.png)
 
-![Data Model In Tableau - 2](https://github.com/LakshmiPriyaDiwakar2706/Survey-Analysis/blob/main/image(1).png)
+![Data Model In Tableau - 2](https://github.com/LakshmiPriyaDiwakar2706/Survey-Analysis/blob/main/image%20(1).png)
 
 ________________________________________
 ## 4. Insights Deep Dive
@@ -39,14 +39,24 @@ ________________________________________
 3. Consumer Behavior:
 •	Energy Drink Consumption: Around 30% of respondents reported consuming energy drinks frequently, indicating a strong potential market for energy drink brands.
 •	Purchase Behavior: 35% of respondents purchase energy drinks from local supermarkets, with most purchases falling in the 50-150 INR price range. This suggests that affordability and availability in supermarkets are key factors driving purchasing decisions.
-4. Brand Perception:
+
+![Frequency](https://github.com/LakshmiPriyaDiwakar2706/Survey-Analysis/blob/main/image%20(2).png)
+![Price](https://github.com/LakshmiPriyaDiwakar2706/Survey-Analysis/blob/main/image%20(3).png)
+
+5. Brand Perception:
 •	Respondents who have heard of the brand showed positive trends in terms of willingness to purchase and brand perception, with many associating it with energy and refreshment.
 ________________________________________
 ## 5. Recommendations
 1. Product Development:
 •	Focus on Caffeine: Based on consumer preferences, a key ingredient for energy drinks is caffeine. However, the R&D team should also consider other improvements such as adding more natural ingredients, reducing the sugar levels and coming up with wide range of refreshing flavors to differentiate the product from competitors.
+
+![Product Development](https://github.com/LakshmiPriyaDiwakar2706/Survey-Analysis/blob/main/Untitled%20design%20(2)%20(1).png)
+
 2. Distribution Strategy:
 •	Supermarkets Over Malls: Since 35% of respondents buy energy drinks from local supermarkets and around 78% spend anywhere between Rs. 50 and 150 , it’s recommended to prioritize distribution in local supermarkets with multiple price ranges rather than large malls.
+
+![Distribution Strategy](https://github.com/LakshmiPriyaDiwakar2706/Survey-Analysis/blob/main/image%20(4).png)
+
 •	Increased Availability in Delhi: The low number of respondents from Delhi suggests a gap in brand awareness. Focused campaigns or sampling strategies in Delhi should be implemented to improve reach.
 3. Marketing Strategy:
 •	Targeted Surveys in Key Cities: Conduct follow-up surveys in cities like Delhi, Jaipur, and Kolkata to understand deeper market insights and address regional preferences.
