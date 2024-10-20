@@ -24,18 +24,22 @@ Key Steps in the Data Cleaning Process:
 
 Data Modeling:
 
-[Data Model In Tableau - 1](https://github.com/LakshmiPriyaDiwakar2706/Survey-Analysis/blob/main/image.png)
+![Data Model In Tableau - 1](https://github.com/LakshmiPriyaDiwakar2706/Survey-Analysis/blob/main/image.png)
 
-[Data Model In Tableau - 2](https://github.com/LakshmiPriyaDiwakar2706/Survey-Analysis/blob/main/image(1).png)
+![Data Model In Tableau - 2](https://github.com/LakshmiPriyaDiwakar2706/Survey-Analysis/blob/main/image(1).png)
 
 ________________________________________
 ## 4. Insights Deep Dive
 1. Demographic Distribution:
 •	Delhi: Despite being a major metropolitan city, the number of survey respondents from Delhi was surprisingly low. This may indicate a need for targeted marketing efforts in the region to increase brand visibility.
-2. Consumer Behavior:
+
+
+![City](https://github.com/LakshmiPriyaDiwakar2706/Survey-Analysis/blob/main/Untitled%20design%20(3).png)
+
+3. Consumer Behavior:
 •	Energy Drink Consumption: Around 30% of respondents reported consuming energy drinks frequently, indicating a strong potential market for energy drink brands.
 •	Purchase Behavior: 35% of respondents purchase energy drinks from local supermarkets, with most purchases falling in the 50-150 INR price range. This suggests that affordability and availability in supermarkets are key factors driving purchasing decisions.
-3. Brand Perception:
+4. Brand Perception:
 •	Respondents who have heard of the brand showed positive trends in terms of willingness to purchase and brand perception, with many associating it with energy and refreshment.
 ________________________________________
 ## 5. Recommendations
