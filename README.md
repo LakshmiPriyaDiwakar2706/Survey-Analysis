@@ -18,7 +18,9 @@ Dat Structure: Being survey data, all the data were qualitative with categorical
 Key Steps in the Data Cleaning Process:
 1.	Handling Inconsistent Responses:
    Heard Before = ‘No’ and Tried Before = ‘Yes’: Consumers who reported not knowing the brand but claimed to have tried it were flagged for removal as this was deemed inconsistent.
-	 Brand Perception: Dropped rows where respondents who had never heard of the brand rated its perception as "Positive" or "Negative," as their responses would be unreliable.
+
+   Brand Perception: Dropped rows where respondents who had never heard of the brand rated its perception as "Positive" or "Negative," as their responses would be unreliable.
+   
    Consume Frequency = ‘Rarely’: Responses indicating that consumers rarely consume energy drinks were removed, as they may not recall the brand or provide valuable insights.
 3.	Data Dropped:
    Approximately 600 responses were excluded from the analysis based on the criteria mentioned above to ensure data consistency and improve reliability.
